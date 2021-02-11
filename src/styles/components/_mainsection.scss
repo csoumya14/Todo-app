@@ -1,0 +1,13 @@
+.upper_section {
+  background-image: url('../../assets/bg-mobile-light.jpg');
+  display: flex;
+  flex-direction: column;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 200px;
+  position: absolute;
+  width: 100vw;
+  justify-content: space-around;
+  align-items: center;
+}
